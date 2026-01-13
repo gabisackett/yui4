@@ -1,0 +1,7 @@
+{
+  "name": "YU Israel Maintenance Manager",
+  "description": "A comprehensive maintenance request management system for Yeshiva University Israel Campus, featuring separate student submission and admin management portals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
